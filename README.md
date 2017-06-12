@@ -1,10 +1,11 @@
-# Redmine Paranoid Mode plugin [![Build Status](https://travis-ci.org/efigence/redmine_paranoid_mode.svg?branch=master)](https://travis-ci.org/efigence/redmine_paranoid_mode)
+# Fork of Redmine Paranoid Mode plugin from git clone https://github.com/efigence/redmine_paranoid_mode
+# this fork will include additional features
 
 #### Plugin which adds paranoid mode to issues.
 
 ## Requirements
 
-Developed and tested on Redmine 3.1.0.
+Developed and tested on Redmine 3.3.x
 
 ## Installation
 
